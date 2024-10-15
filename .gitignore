@@ -1,0 +1,56 @@
+# Ignore Gradle files
+.gradle/
+build/
+**/build/
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Ignore Maven files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.swp
+
+# Ignore compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore Kotlin/Java bytecode and metadata files
+*.class
+*.kt.metadata
+*.java.metadata
+*.hprof
+
+# Ignore generated Kotlin/Java documentation
+docs/
+
+# Ignore application configuration files
+*.env
+
+# Ignore test reports
+test-results/
+test-output/
+
+# Ignore local IDE config
+.idea/*
