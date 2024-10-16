@@ -1,6 +1,4 @@
-package amit.variables_and_memory_allocation
-
-/*
+package sarmesh.variables_and_memory_location/*
 Input Resources:
  -
  -
